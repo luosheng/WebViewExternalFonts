@@ -1,0 +1,410 @@
+// !$*UTF8*$!
+{
+	04C1E033127BA77C003AA0E6 /* WebViewExternalFonts */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = WebViewExternalFonts;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	04C1E044127BA77F003AA0E6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	04C1E045127BA77F003AA0E6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	04C1E048127BA836003AA0E6 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WebViewExternalFonts-Info.plist */;
+	};
+	04C1E04B127BA9A9003AA0E6 /* index.html */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3700, 562}}";
+			sepNavSelRange = "{761, 0}";
+			sepNavVisRange = "{0, 781}";
+		};
+	};
+	04C1E04F127BAA4F003AA0E6 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WebViewExternalFonts-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/sheng/Projects/WebViewExternalFonts/WebViewExternalFonts-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	04C1E050127BAA4F003AA0E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* WebViewExternalFontsAppDelegate.h */;
+		name = "WebViewExternalFontsAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 555;
+		vrLoc = 0;
+	};
+	04C1E051127BAA4F003AA0E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* WebViewExternalFontsViewController.h */;
+		name = "WebViewExternalFontsViewController.h: 17";
+		rLen = 0;
+		rLoc = 307;
+		rType = 0;
+		vrLen = 307;
+		vrLoc = 0;
+	};
+	04C1E052127BAA4F003AA0E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04C1E04B127BA9A9003AA0E6 /* index.html */;
+		name = "index.html: 14";
+		rLen = 0;
+		rLoc = 761;
+		rType = 0;
+		vrLen = 449;
+		vrLoc = 0;
+	};
+	04C1E053127BAA4F003AA0E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WebViewExternalFontsViewController.m */;
+		name = "WebViewExternalFontsViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 864;
+		vrLoc = 0;
+	};
+	04C1E054127BAA4F003AA0E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WebViewExternalFontsViewController.m */;
+		name = "WebViewExternalFontsViewController.m: 31";
+		rLen = 1;
+		rLoc = 719;
+		rType = 0;
+		vrLen = 1014;
+		vrLoc = 275;
+	};
+	04C1E055127BAA5A003AA0E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WebViewExternalFontsViewController.m */;
+		name = "WebViewExternalFontsViewController.m: 31";
+		rLen = 1;
+		rLoc = 719;
+		rType = 0;
+		vrLen = 299;
+		vrLoc = 606;
+	};
+	04C1E056127BAA5B003AA0E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WebViewExternalFontsViewController.m */;
+		name = "WebViewExternalFontsViewController.m: 31";
+		rLen = 1;
+		rLoc = 719;
+		rType = 0;
+		vrLen = 1014;
+		vrLoc = 275;
+	};
+	04C1E057127BAA61003AA0E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WebViewExternalFontsViewController.m */;
+		name = "WebViewExternalFontsViewController.m: 31";
+		rLen = 1;
+		rLoc = 719;
+		rType = 0;
+		vrLen = 299;
+		vrLoc = 606;
+	};
+	04C1E059127BAA65003AA0E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WebViewExternalFontsViewController.m */;
+		name = "WebViewExternalFontsViewController.m: 31";
+		rLen = 1;
+		rLoc = 719;
+		rType = 0;
+		vrLen = 1014;
+		vrLoc = 275;
+	};
+	04C1E061127BAA65003AA0E6 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WebViewExternalFonts-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIAppFonts,
+			0,
+		);
+		name = "/Users/sheng/Projects/WebViewExternalFonts/WebViewExternalFonts-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	04C1E064127BAA83003AA0E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WebViewExternalFontsViewController.m */;
+		name = "WebViewExternalFontsViewController.m: 40";
+		rLen = 0;
+		rLoc = 1185;
+		rType = 0;
+		vrLen = 1014;
+		vrLoc = 275;
+	};
+	04C1E065127BAA83003AA0E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04C1E04B127BA9A9003AA0E6 /* index.html */;
+		name = "index.html: 14";
+		rLen = 0;
+		rLoc = 761;
+		rType = 0;
+		vrLen = 449;
+		vrLoc = 0;
+	};
+	04C1E066127BAA83003AA0E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04C1E04B127BA9A9003AA0E6 /* index.html */;
+		name = "index.html: 15";
+		rLen = 0;
+		rLoc = 773;
+		rType = 0;
+		vrLen = 431;
+		vrLoc = 0;
+	};
+	04C1E067127BAA83003AA0E6 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WebViewExternalFonts-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIAppFonts,
+			0,
+		);
+		name = "/Users/sheng/Projects/WebViewExternalFonts/WebViewExternalFonts-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	04C1E06E127BAABD003AA0E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04C1E04B127BA9A9003AA0E6 /* index.html */;
+		name = "index.html: 15";
+		rLen = 0;
+		rLoc = 773;
+		rType = 0;
+		vrLen = 431;
+		vrLoc = 0;
+	};
+	04C1E06F127BAABD003AA0E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04C1E070127BAABD003AA0E6 /* TestWebviewFontViewController.m */;
+		name = "TestWebviewFontViewController.m: 38";
+		rLen = 190;
+		rLoc = 895;
+		rType = 0;
+		vrLen = 988;
+		vrLoc = 695;
+	};
+	04C1E070127BAABD003AA0E6 /* TestWebviewFontViewController.m */ = {
+		isa = PBXFileReference;
+		name = TestWebviewFontViewController.m;
+		path = /Users/sheng/Projects/citic/Misc/TestWebviewFont/Classes/TestWebviewFontViewController.m;
+		sourceTree = "<absolute>";
+	};
+	04C1E071127BAABD003AA0E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WebViewExternalFontsViewController.m */;
+		name = "WebViewExternalFontsViewController.m: 40";
+		rLen = 0;
+		rLoc = 1185;
+		rType = 0;
+		vrLen = 1014;
+		vrLoc = 275;
+	};
+	04C1E072127BAABD003AA0E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WebViewExternalFontsViewController.m */;
+		name = "WebViewExternalFontsViewController.m: 39";
+		rLen = 0;
+		rLoc = 1051;
+		rType = 0;
+		vrLen = 1121;
+		vrLoc = 275;
+	};
+	04C1E073127BAABD003AA0E6 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WebViewExternalFonts-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIAppFonts,
+			0,
+		);
+		name = "/Users/sheng/Projects/WebViewExternalFonts/WebViewExternalFonts-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	04C1E076127BAAF9003AA0E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WebViewExternalFontsViewController.m */;
+		name = "WebViewExternalFontsViewController.m: 39";
+		rLen = 0;
+		rLoc = 1051;
+		rType = 0;
+		vrLen = 1121;
+		vrLoc = 275;
+	};
+	04C1E077127BAAF9003AA0E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04C1E04B127BA9A9003AA0E6 /* index.html */;
+		name = "index.html: 15";
+		rLen = 0;
+		rLoc = 773;
+		rType = 0;
+		vrLen = 431;
+		vrLoc = 0;
+	};
+	04C1E078127BAAF9003AA0E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04C1E04B127BA9A9003AA0E6 /* index.html */;
+		name = "index.html: 13";
+		rLen = 0;
+		rLoc = 761;
+		rType = 0;
+		vrLen = 781;
+		vrLoc = 0;
+	};
+	04C1E079127BAAF9003AA0E6 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* WebViewExternalFonts-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIAppFonts,
+			0,
+		);
+		name = "/Users/sheng/Projects/WebViewExternalFonts/WebViewExternalFonts-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	1D3623240D0F684500981E51 /* WebViewExternalFontsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 585}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 555}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* WebViewExternalFonts */ = {
+		activeExec = 0;
+		executables = (
+			04C1E033127BA77C003AA0E6 /* WebViewExternalFonts */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* WebViewExternalFontsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 585}}";
+			sepNavSelRange = "{307, 0}";
+			sepNavVisRange = "{0, 307}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* WebViewExternalFontsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 1088}}";
+			sepNavSelRange = "{1051, 0}";
+			sepNavVisRange = "{275, 1121}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 04C1E033127BA77C003AA0E6 /* WebViewExternalFonts */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* WebViewExternalFonts */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* WebViewExternalFonts */,
+		);
+		codeSenseManager = 04C1E045127BA77F003AA0E6 /* Code sense */;
+		executables = (
+			04C1E033127BA77C003AA0E6 /* WebViewExternalFonts */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 310093692;
+			PBXWorkspaceStateSaveDate = 310093692;
+		};
+		perUserProjectItems = {
+			04C1E048127BA836003AA0E6 /* PBXBookmark */ = 04C1E048127BA836003AA0E6 /* PBXBookmark */;
+			04C1E04F127BAA4F003AA0E6 /* PlistBookmark */ = 04C1E04F127BAA4F003AA0E6 /* PlistBookmark */;
+			04C1E050127BAA4F003AA0E6 /* PBXTextBookmark */ = 04C1E050127BAA4F003AA0E6 /* PBXTextBookmark */;
+			04C1E051127BAA4F003AA0E6 /* PBXTextBookmark */ = 04C1E051127BAA4F003AA0E6 /* PBXTextBookmark */;
+			04C1E052127BAA4F003AA0E6 /* PBXTextBookmark */ = 04C1E052127BAA4F003AA0E6 /* PBXTextBookmark */;
+			04C1E053127BAA4F003AA0E6 /* PBXTextBookmark */ = 04C1E053127BAA4F003AA0E6 /* PBXTextBookmark */;
+			04C1E054127BAA4F003AA0E6 /* PBXTextBookmark */ = 04C1E054127BAA4F003AA0E6 /* PBXTextBookmark */;
+			04C1E055127BAA5A003AA0E6 /* PBXTextBookmark */ = 04C1E055127BAA5A003AA0E6 /* PBXTextBookmark */;
+			04C1E056127BAA5B003AA0E6 /* PBXTextBookmark */ = 04C1E056127BAA5B003AA0E6 /* PBXTextBookmark */;
+			04C1E057127BAA61003AA0E6 /* PBXTextBookmark */ = 04C1E057127BAA61003AA0E6 /* PBXTextBookmark */;
+			04C1E059127BAA65003AA0E6 /* PBXTextBookmark */ = 04C1E059127BAA65003AA0E6 /* PBXTextBookmark */;
+			04C1E061127BAA65003AA0E6 /* PlistBookmark */ = 04C1E061127BAA65003AA0E6 /* PlistBookmark */;
+			04C1E064127BAA83003AA0E6 /* PBXTextBookmark */ = 04C1E064127BAA83003AA0E6 /* PBXTextBookmark */;
+			04C1E065127BAA83003AA0E6 /* PBXTextBookmark */ = 04C1E065127BAA83003AA0E6 /* PBXTextBookmark */;
+			04C1E066127BAA83003AA0E6 /* PBXTextBookmark */ = 04C1E066127BAA83003AA0E6 /* PBXTextBookmark */;
+			04C1E067127BAA83003AA0E6 /* PlistBookmark */ = 04C1E067127BAA83003AA0E6 /* PlistBookmark */;
+			04C1E06E127BAABD003AA0E6 /* PBXTextBookmark */ = 04C1E06E127BAABD003AA0E6 /* PBXTextBookmark */;
+			04C1E06F127BAABD003AA0E6 /* PBXTextBookmark */ = 04C1E06F127BAABD003AA0E6 /* PBXTextBookmark */;
+			04C1E071127BAABD003AA0E6 /* PBXTextBookmark */ = 04C1E071127BAABD003AA0E6 /* PBXTextBookmark */;
+			04C1E072127BAABD003AA0E6 /* PBXTextBookmark */ = 04C1E072127BAABD003AA0E6 /* PBXTextBookmark */;
+			04C1E073127BAABD003AA0E6 /* PlistBookmark */ = 04C1E073127BAABD003AA0E6 /* PlistBookmark */;
+			04C1E076127BAAF9003AA0E6 /* PBXTextBookmark */ = 04C1E076127BAAF9003AA0E6 /* PBXTextBookmark */;
+			04C1E077127BAAF9003AA0E6 /* PBXTextBookmark */ = 04C1E077127BAAF9003AA0E6 /* PBXTextBookmark */;
+			04C1E078127BAAF9003AA0E6 /* PBXTextBookmark */ = 04C1E078127BAAF9003AA0E6 /* PBXTextBookmark */;
+			04C1E079127BAAF9003AA0E6 /* PlistBookmark */ = 04C1E079127BAAF9003AA0E6 /* PlistBookmark */;
+		};
+		sourceControlManager = 04C1E044127BA77F003AA0E6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
